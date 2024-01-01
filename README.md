@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaaliharsh?tab=repositories](https://github.com/kaaliharsh?tab=repositories)
 
-- 💬 Ask me about **JAVA HTML CSS JAVASCRIPT AWS**
+- 💬 Ask me about **JAVA HTML CSS JAVASCRIPT Cloud**
 
 - 📫 How to reach me **harshdeepgupta2002@gmail.com**
 
