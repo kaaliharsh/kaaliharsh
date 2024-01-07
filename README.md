@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harshdeepgupta2002@gmail.com**
 
-- 📄 Know about my experiences Working in two start-ups that are grown from the root.     1. Dream Provider      2. Adishree
+- 📄 Know about my experiences Working in two start-ups that are grown from the root.     1. Dream Provider    2. Adishree
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
