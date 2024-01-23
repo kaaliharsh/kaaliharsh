@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Deep </h1>
-<h3 align="center justify">A passionate Java developer and Cloud Enthusiast from India. I am a pre-final year college student pursuing a bachelor's degree in Computer Science and Engineering. As a passionate and driven individual, I am committed to achieving my academic and professional goals. Although I have already developed strong skills in C and Java language because I learned C and Java language during my diploma journey. I am also eager to learn and expand my knowledge in areas such as MERN Development, Data Structure, Machine Learning etc.</h3>          
+<h3 align="center justify">A passionate Java developer and Cloud Enthusiast from India. I am a pre-final year college student pursuing a bachelor's degree in Computer Science and Engineering. As a passionate and driven individual, I am committed to achieving my academic and professional goals. Although I have already developed strong skills in C and Java language because I learned C and Java language during my diploma journey. I am also eager to learn and expand my knowledge in areas such as MERN Development, Data Structure, Machine Learning etc.</h3>           
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaaliharsh&label=Profile%20views&color=0e75b6&style=flat" alt="kaaliharsh" /> </p>
 
