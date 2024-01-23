@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaaliharsh&label=Profile%20views&color=0e75b6&style=flat" alt="kaaliharsh" /> </p>
  
        
-- 🌱 I’m currently learning **MERN STACK**   
+- 🌱 I’m currently learning **MERN STACK**    
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaaliharsh?tab=repositories](https://github.com/kaaliharsh?tab=repositories)
 
