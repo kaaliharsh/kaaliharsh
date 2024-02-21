@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaaliharsh?tab=repositories](https://github.com/kaaliharsh?tab=repositories)
 
-- 💬 Ask me about **JAVA HTML CSS JAVASCRIPT Cloud**
+- 💬 Ask me about **JAVA HTML CSS JAVASCRIPT
 
 - 📫 How to reach me **harshdeepgupta2002@gmail.com**
 - Freelance Technical Content Writer at Geeksforgeeks <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshdeepg3cub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshdeepg3cub" height="30" width="40" /></a>
