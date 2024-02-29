@@ -35,5 +35,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaaliharsh&show_icons=true&locale=en&layout=compact" alt="kaaliharsh" /></p>
 
 <a href="https://github.com/kaaliharsh/github-readme-stats"><img alt="Harsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaaliharsh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/kaaliharsh/github-readme-stats"><img alt="Harsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaliharsh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
