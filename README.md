@@ -32,6 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaaliharsh&" alt="kaaliharsh" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaaliharsh&show_icons=true&locale=en&layout=compact" alt="kaaliharsh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaaliharsh&show_icons=true&locale=en" alt="kaaliharsh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaaliharsh&show_icons=true&locale=en" alt="kaaliharsh" /></p><br>
+<a href="https://github.com/kaaliharsh/github-readme-stats"><img alt="Harsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaaliharsh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
