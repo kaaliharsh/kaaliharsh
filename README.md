@@ -49,7 +49,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaaliharsh&show_icons=true&locale=en&layout=compact" alt="kaaliharsh" /></p>
 
 <a href="https://github.com/kaaliharsh/github-readme-stats"><img alt="Harsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaaliharsh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-![snake gif](https://github.com/kaaliharsh/kaaliharsh/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kaaliharsh/kaaliharsh/blob/output/github-contribution-grid-snake.gif)
 
 
 
