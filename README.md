@@ -10,7 +10,7 @@
 - Ex-Freelance Technical Content Writer at Geeksforgeeks <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshdeepg3cub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshdeepg3cub" height="30" width="40" /></a>
 
 
-- 📄 Know about my experiences Working in two start-ups that are grown from the root.     1. Dream Provider           2. Adishri Pvt. Ltd.
+- 📄 Know about my experiences working in two start-ups that are grown from the root.     1. Dream Provider           2. Adishri Productions Pvt. Ltd.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">    
