@@ -3,7 +3,7 @@
                    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaaliharsh&label=Profile%20views&color=0e75b6&style=flat" alt="kaaliharsh" /> </p>
       
-- 💬 Ask me about JAVA HTML CSS JAVASCRIPT
+- 💬 Ask me about Java, Python, Springboot, Django, Sql, Bootstrap, Vanilla Js.
 
 - 📫 How to reach me **harshdeepgupta2002@gmail.com**
 - Ex-Web Dev. Intern Adishri Productions Pvt. Ltd.
