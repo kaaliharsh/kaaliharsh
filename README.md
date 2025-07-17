@@ -5,9 +5,9 @@
       
 - 💬 Ask me about Java, Python, Springboot, Django, Sql, Bootstrap, Vanilla Js. 
 
-- 📫 How to reach me **harshdeepgupta2002@gmail.com**
-- Ex-Web Dev. Intern Adishri Productions Pvt. Ltd.
-- Ex-Freelance TCW at Geeksforgeeks <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshdeepg3cub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshdeepg3cub" height="30" width="40" /></a>
+- **Analyst Intern at Deloitte India**
+- **Ex-Web Dev. Intern Adishri Productions Pvt. Ltd.**
+- **Ex-Freelance TCW at Geeksforgeeks** <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshdeepg3cub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshdeepg3cub" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -17,4 +17,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+
+  - 📫 How to reach me **harshdeepgupta2002@gmail.com**
 
