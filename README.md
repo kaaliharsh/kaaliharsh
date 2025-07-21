@@ -5,7 +5,7 @@
       
 - 💬 Ask me about Java, Python, Springboot, Django, Sql, Bootstrap, Vanilla Js. 
 
-- **Upcoming Analyst Intern at Deloitte India**
+- **Analyst Intern at Deloitte India**
 - **Ex-Web Dev. Intern Adishri Productions Pvt. Ltd.**
 - **Ex-Freelance TCW at Geeksforgeeks** <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshdeepg3cub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshdeepg3cub" height="30" width="40" /></a>
 
