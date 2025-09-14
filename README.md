@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Deep </h1>
 <p align="center justify">As a graduated student in Computer Science and Engineering, I'm passionate about building robust and scalable applications. I have a strong foundation in languages like Java, Python, and C, with hands-on experience in frameworks such as <b>Spring Boot and Django</b>. I've also gained practical skills in cloud services with AWS and front-end development with Bootstrap. My dedication to problem-solving is demonstrated by my <b>1612 rating</b> on leetcode and my global rank of <b>579 in a Biweekly Contest</b>. I'm actively seeking opportunities to apply my skills in a challenging and innovative environment.</p>                      
-                       
+                        
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaaliharsh&label=Profile%20views&color=0e75b6&style=flat" alt="kaaliharsh" /> </p>
       
 - 💬 Ask me about Java, Python, Springboot, Django, Sql, Bootstrap, Vanilla Js. 
