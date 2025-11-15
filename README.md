@@ -3,9 +3,10 @@
                         
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaaliharsh&label=Profile%20views&color=0e75b6&style=flat" alt="kaaliharsh" /> </p>
        
-- 💬 Ask me about Java, Python, Springboot, Django, Sql, Bootstrap, Vanilla Js. 
-
-- **Analyst Intern (Salesforce Team) at Deloitte India**
+- 💬 Ask me about Java, Python, Springboot, Django, Sql, Bootstrap, Vanilla Js.
+- 
+- **GET at Coforge (Mainframe Team)**
+- **Ex-Analyst Intern (Salesforce Team and Oracle Team) at Deloitte India**
 - **Ex-Web Dev. Intern Adishri Productions Pvt. Ltd.**
 - **Ex-Freelance TCW at Geeksforgeeks** <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshdeepg3cub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshdeepg3cub" height="30" width="40" /></a>
 
