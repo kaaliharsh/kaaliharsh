@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaaliharsh&label=Profile%20views&color=0e75b6&style=flat" alt="kaaliharsh" /> </p>
        
 - 💬 Ask me about Java, Python, Springboot, Django, Sql, Bootstrap, Vanilla Js.
-- 
+
 - **GET at Coforge (Mainframe Team)**
 - **Ex-Analyst Intern (Salesforce Team and Oracle Team) at Deloitte India**
 - **Ex-Web Dev. Intern Adishri Productions Pvt. Ltd.**
